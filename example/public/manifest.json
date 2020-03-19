@@ -1,0 +1,8 @@
+{
+  "short_name": "kz-player",
+  "name": "kz-player",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
